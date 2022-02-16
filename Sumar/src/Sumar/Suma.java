@@ -18,6 +18,7 @@ public class Suma {
 			System.out.println("Introduce un número positivo:");
 			a=teclado.nextInt();
 			System.out.println("linea insignificante");
+			
 			System.out.println("Introduce otro número positivo:");
 			
 			b=teclado.nextInt();
